@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class Enemigo {
     private Sala salaActual;
     private String nombre;
