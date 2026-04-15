@@ -1,4 +1,4 @@
-import java.util.ArrayList;ç
+import java.util.ArrayList;
 public class Sala {
     private int id;
     private String nombre;
